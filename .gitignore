@@ -1,0 +1,69 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Environment variables - NEVER COMMIT
+.env
+*.env
+
+# Personal data
+data/recordings/
+data/recordings/*
+
+# API Keys and credentials
+*_credentials.json
+*_config.json
+secrets/
+
+# Temporary files with potential data
+temp_*.wav
+temp_*.mp3
+*.mp3
+test_*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+data/recordings/
+*.log
+test_*.mp3
+agent_response.mp3
+temp_*.wav
+
+# Streamlit
+.streamlit/
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
