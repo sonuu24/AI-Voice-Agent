@@ -263,31 +263,31 @@ The LLM (Llama 3.3 via Groq):
 
 ## Chat Interface
 
-> ![Dashboard](./screenshots/dashboard.png)
+> ![Chat Interface](./app_preview/Chat_Interface.png)
 
 ---
 
 ## Voice Demo
 
-> ![Dashboard](./screenshots/dashboard.png)
+> ![Voice Demo](./app_preview/Voice_Demo.mp4)
 
 ---
 
 ## Recordings Viewer
 
-> ![Dashboard](./screenshots/dashboard.png)
+> ![Recordings Viewer](./app_preview/Recordings_Viewer.png)
 
 ---
 
 ## Knowledge Base Manager
 
-> ![Dashboard](./screenshots/dashboard.png)
+> ![Knowledge Base Manager](./app_preview/Knowledge_Base_Manager.mp4)
 
 ---
 
 ## Analytics
 
-> ![Dashboard](./screenshots/dashboard.png)
+> ![Analytics](./app_preview/Analysis.mp4)
 
 ---
 
