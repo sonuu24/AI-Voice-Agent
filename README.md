@@ -267,9 +267,9 @@ The LLM (Llama 3.3 via Groq):
 
 ---
 
-## Voice Demo
+## 🎙️ Voice Demo
 
-> ![Voice Demo](./app_preview/Voice_Demo.mp4)
+[▶️ Watch Voice Demo](./app_preview/Voice_Demo.mp4)
 
 ---
 
@@ -281,14 +281,13 @@ The LLM (Llama 3.3 via Groq):
 
 ## Knowledge Base Manager
 
-> ![Knowledge Base Manager](./app_preview/Knowledge_Base_Manager.mp4)
+
+> [▶️ Watch Knowledge Base Manager Demo](./app_preview/Knowledge_Base_Manager.mp4)
 
 ---
 
-## Analytics
-
-> ![Analytics](./app_preview/Analysis.mp4)
-
+## 📊 Analytics
+> [▶️ Watch Analytics Demo](./app_preview/Analysis.mp4)
 ---
 
 ## 🚧 Limitations & Future Improvements
