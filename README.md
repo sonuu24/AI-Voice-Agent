@@ -8,7 +8,8 @@ An intelligent voice agent that handles real customer service phone calls using 
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.115+-green.svg)](https://fastapi.tiangolo.com/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
----
+</div>
+
 
 ## ✨ Features
 
@@ -269,7 +270,7 @@ The LLM (Llama 3.3 via Groq):
 
 ## 🎙️ Voice Demo
 
-[▶️ Watch Voice Demo](./app_preview/Voice_Demo.gif)
+> ![Voice Demo](./app_preview/Voice_Demo.gif)
 
 ---
 
@@ -282,12 +283,12 @@ The LLM (Llama 3.3 via Groq):
 ## Knowledge Base Manager
 
 
-> [▶️ Watch Knowledge Base Manager Demo](./app_preview/Knowledge_Base_Manager.gif)
+> ![Knowledge Base Manager Demo](./app_preview/Knowledge_Base_Manager.gif)
 
 ---
 
 ## 📊 Analytics
-> [▶️ Watch Analytics Demo](./app_preview/Analysis.gif)
+> ![Analytics Demo](./app_preview/Analysis.gif)
 ---
 
 ## 🚧 Limitations & Future Improvements
